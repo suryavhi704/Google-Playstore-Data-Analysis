@@ -83,7 +83,7 @@ Entertainment-oriented categories (Games, Social, Communication) naturally attra
 
 # 🙌 Acknowledgement
 
-I express my sincere gratitude to Unified Mentor Private Limited for providing me with this internship opportunity, continuous guidance, and real-world exposure to Machine Learning Model Building.
+I express my sincere gratitude to **Unified Mentor Private Limited** for providing me with this internship opportunity, continuous guidance, and real-world exposure to Machine Learning Model Building.
 
 # 📞 Contact
 
