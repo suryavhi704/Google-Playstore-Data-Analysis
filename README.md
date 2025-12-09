@@ -26,6 +26,61 @@ Scikit-learn
 
 Matplotlib / Seaborn
 
+
+# 🧠Key EDA Insights
+
+**Top Installed Categories:**
+
+Game, Communication, Social, Productivity, Tools
+
+**Rating Patterns:Category Rating Comparison:**
+
+Most ratings fall between 4.0 to 4.5
+
+Apps with 4.3–4.5 rating show the highest install frequency
+
+Apps rated above 4.3 get ~2.5× more installs than apps below 4.1
+
+**Category Rating Comparison:**
+
+Finance: 4.2
+
+Game: 4.3
+
+Social: 4.3
+
+**Installs Comparison:**
+
+Finance apps: ~50K installs
+
+Game apps: ~5M installs
+
+Social apps: ~1M installs
+
+
+# 📌Hidden Patterns Uncovered
+
+1.**High Installs ≠ High Ratings**
+
+Tools, Dating, and Family apps get high downloads but show lower average ratings → indicates user dissatisfaction despite popularity.
+
+2.**App Quality Drives Growth**
+
+Categories with high median ratings (4.3+) consistently dominate install counts.
+
+3.**Platform Is Dominated by Free Apps**
+
+Entire dataset contains free apps, meaning market competition relies on quality and user trust, not pricing.
+
+4.**Rating Sweet Spot**
+
+The 4.3–4.5 rating segment appears to be a growth trigger zone.
+
+5.**Category Influence on Visibility**
+
+Entertainment-oriented categories (Games, Social, Communication) naturally attract the largest user base.
+
+
 # 🙌 Acknowledgement
 
 I express my sincere gratitude to Unified Mentor Private Limited for providing me with this internship opportunity, continuous guidance, and real-world exposure to Machine Learning Model Building.
